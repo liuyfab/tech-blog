@@ -5,7 +5,7 @@
 This project is a Content Management System (CMS) - style blog. It allows users to create accounts to sign up and log in where they can publish blog posts and comment on posts made by others. They can also edit and delete their own posts.
 
 # Link to Deployment
- https://git.heroku.com/secure-depths-75286.git 
+https://secure-depths-75286.herokuapp.com/
 
 # Table of Contents
 * [Installation](#installation)
